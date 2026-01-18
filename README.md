@@ -39,15 +39,8 @@
 
 > "Good programmers write code that humans can understand." — Martin Fowler
 
-<div align="left">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=AvelinoTeixeira&show_icons=true&theme=tokyonight&bg_color=151B23&title_color=79c0ff&text_color=c9d1d9&icon_color=79c0ff&include_all_commits=true&count_private=true" height="180em" alt="Estatísticas do GitHub" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvelinoTeixeira&layout=compact&theme=tokyonight&bg_color=151B23&title_color=79c0ff&text_color=c9d1d9&hide_border=true" height="180em" alt="Linguagens mais usadas" />
-      </td>
-    </tr>
-  </table>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AvelinoTeixeira/AvelinoTeixeira/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AvelinoTeixeira/AvelinoTeixeira/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/AvelinoTeixeira/AvelinoTeixeira/output/github-contribution-grid-snake.svg">
+</picture>
