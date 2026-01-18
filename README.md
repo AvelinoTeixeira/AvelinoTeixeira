@@ -39,6 +39,6 @@
 
 > "Good programmers write code that humans can understand." — Martin Fowler
 
-<div align="center">
+<div align="left">
   <img src="https://raw.githubusercontent.com/AvelinoTeixeira/AvelinoTeixeira/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
