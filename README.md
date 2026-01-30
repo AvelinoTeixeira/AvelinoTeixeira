@@ -10,7 +10,7 @@
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvelinoTeixeira&layout=compact&theme=tokyonight&hide_border=true" height="180em" alt="Linguagens mais usadas" />
       </td>
-    </tr>
+    </tr> 
   </table>
 </div>
 
