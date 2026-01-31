@@ -51,3 +51,4 @@
 \n<!-- Commit 5: adicionar quote -->
 \n<!-- Commit 6: layout da tabela -->
 \n<!-- Commit 7: pequenas melhorias -->
+\n<!-- Commit 8: seção Projetos Futuros -->
