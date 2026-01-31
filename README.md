@@ -56,3 +56,4 @@
 \n<!-- Commit 10: adicionar foguete Tech Stack -->
 \n<!-- Commit 11: corrigir indentação -->
 \n<!-- Commit 12: atualizar descrição Frontend Core -->
+\n<!-- Commit 13: adicionar links cursos -->
