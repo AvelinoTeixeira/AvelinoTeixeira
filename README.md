@@ -53,3 +53,4 @@
 \n<!-- Commit 7: pequenas melhorias -->
 \n<!-- Commit 8: seção Projetos Futuros -->
 \n<!-- Commit 9: ajustar espaçamento tabela -->
+\n<!-- Commit 10: adicionar foguete Tech Stack -->
