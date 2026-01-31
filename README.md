@@ -59,3 +59,4 @@
 \n<!-- Commit 13: adicionar links cursos -->
 \n<!-- Commit 14: ajustar cores badges -->
 \n<!-- Commit 15: seção Certificações -->
+\n<!-- Commit 16: ajustar texto quote -->
