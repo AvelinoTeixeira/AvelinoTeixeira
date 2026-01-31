@@ -48,3 +48,4 @@
 \n<!-- Commit 2: emojis e saudação -->
 \n<!-- Commit 3: corrigir links -->
 \n<!-- Commit 4: atualizar Tech Stack -->
+\n<!-- Commit 5: adicionar quote -->
