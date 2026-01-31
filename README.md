@@ -52,3 +52,4 @@
 \n<!-- Commit 6: layout da tabela -->
 \n<!-- Commit 7: pequenas melhorias -->
 \n<!-- Commit 8: seção Projetos Futuros -->
+\n<!-- Commit 9: ajustar espaçamento tabela -->
