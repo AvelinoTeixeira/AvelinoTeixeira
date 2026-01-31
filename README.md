@@ -63,3 +63,4 @@
 \n<!-- Commit 17: adicionar ícone laptop Backend -->
 \n<!-- Commit 18: corrigir link LinkedIn -->
 \n<!-- Commit 19: corrigir link email -->
+\n<!-- Commit 20: adicionar separador seções -->
