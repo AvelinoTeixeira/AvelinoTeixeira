@@ -49,3 +49,4 @@
 \n<!-- Commit 3: corrigir links -->
 \n<!-- Commit 4: atualizar Tech Stack -->
 \n<!-- Commit 5: adicionar quote -->
+\n<!-- Commit 6: layout da tabela -->
