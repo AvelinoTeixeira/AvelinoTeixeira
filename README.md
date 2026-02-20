@@ -14,18 +14,6 @@ I build scalable, high-performance web applications focused on architecture, cle
 
 ---
 
-## 🧠 Engineering Focus
-
-- Scalable Frontend Architecture
-- Performance Optimization (Core Web Vitals & Lighthouse 90+)
-- Design Systems & Component-Driven Development
-- Type-Safe Codebases (Advanced TypeScript)
-- Test Strategy (Unit + E2E)
-- Clean Code & Maintainability
-- Developer Experience (DX)
-
----
-
 ## 🛠️ Tech Stack
 
 ### Frontend Core
