@@ -2,15 +2,7 @@
 
 ### Senior Software Engineer | React & Next.js
 
-<div align="left">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvelinoTeixeira&layout=compact&theme=tokyonight&hide_border=true" height="180em" alt="Linguagens mais usadas" />
-      </td>
-    </tr>
-  </table>
-</div>
+
 
 ## 🛠️ Tech Stack & Experiência Avançada
 
