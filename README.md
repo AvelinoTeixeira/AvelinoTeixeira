@@ -1,13 +1,12 @@
 # Olá, sou o Avelino Teixeira 👋
-### Full Stack Software Engineer | JavaScript · TypeScript · React · Next.js · Node.js
+### Senior Full Stack Engineer | React · Next.js · TypeScript · Node.js · AI Systems
 
-I build complete web applications end-to-end — from scalable React interfaces
-to Node.js APIs, database modeling, and production deployment.
+5+ anos entregando sistemas em produção — da interface ao servidor.
+Especializado em performance, design systems e integração de IA (Groq Whisper · LLaMA 3.3 · OpenAI API).
 
 ---
 
 ## 📊 GitHub Analytics
-
 <p align="left">
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AvelinoTeixeira&show_icons=true&hide_title=true&rank_icon=github&theme=github_dark" />
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AvelinoTeixeira&layout=compact&theme=github_dark" />
@@ -22,24 +21,26 @@ to Node.js APIs, database modeling, and production deployment.
 ![React](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS_v4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 
-### Backend & Database
+### Backend & AI
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ### Testing & Quality
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 
 ### Cloud & Deploy
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Core Web Vitals](https://img.shields.io/badge/Core_Web_Vitals-5C2D91?style=for-the-badge)
 
 ---
@@ -49,17 +50,18 @@ to Node.js APIs, database modeling, and production deployment.
 | Metric | Result |
 |---|---|
 | Lighthouse Score | 95–99 / 100 |
-| LCP | 0.8s |
-| Organic Traffic | +142% via SSR/SEO |
-| Code Duplication | −68% via Design Systems |
-| Conversion Rate | +30% on critical features |
+| LCP improvement | 3.2s → 1.8s (−44%) |
+| Page delivery cycle | −25% via Next.js App Router |
+| Organic traffic | +142% via SSR/SEO |
+| Test coverage | 85% (Jest · RTL · Cypress · Playwright) |
+| Users scaled | 12,000+ active users |
 
 ---
 
 ## 📫 Contact
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avelino-teixeira-351a8524a/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avelinodevstack@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)]([https://avelinoteixeira.dev](https://avelino-dev-portfolio.vercel.app/))
 
 ---
 
