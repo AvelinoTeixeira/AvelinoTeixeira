@@ -1,8 +1,8 @@
-# Olá, sou o Avelino Teixeira 👋
+# Hello, I'm Avelino Teixeira 👋
 ### Senior Full Stack Engineer | React · Next.js · TypeScript · Node.js · AI Systems
 
-5+ anos entregando sistemas em produção — da interface ao servidor.
-Especializado em performance, design systems e integração de IA (Groq Whisper · LLaMA 3.3 · OpenAI API).
+5+ years delivering production-grade systems — from frontend interfaces to backend architecture.
+Specialized in performance, design systems, and AI integrations (Groq Whisper · LLaMA 3.3 · OpenAI API).
 
 ---
 
