@@ -1,8 +1,19 @@
-👋 Senior Full Stack Engineer | Node.js | React | TypeScript | AWS
+# Hi, I'm Avelino 👋
+### Senior Full Stack Engineer | Node.js | React | TypeScript | AWS
 
-Senior Software Engineer with 5+ years of experience designing, building, and scaling robust, high-traffic web applications. Specialized in the JavaScript/TypeScript ecosystem, with deep expertise in React and Node.js microservices, and a strong focus on cloud-native architectures with AWS.
+I am a Senior Software Engineer with **5+ years of experience** designing, building, and scaling robust web applications. Specialized in the JavaScript/TypeScript ecosystem, I focus on creating high-performance frontend interfaces and architecting resilient microservices, while expanding into cloud-native architectures with AWS.
 
-Proven track record of leading legacy migrations to React, architecting scalable backend APIs, and mentoring engineering teams in clean code practices. Fully proficient in English and highly experienced in collaborating with international remote teams across all US time zones (EST, CST, PST).
+Throughout my career, I have led legacy migrations to React, architected high-traffic backend services, and mentored developers in TypeScript and clean architecture. 
+
+🌍 **Global Remote Ready:** Fully proficient in English, working seamlessly across all US time zones (EST, CST, PST) with international teams.
+
+
+## 📊 GitHub Analytics
+<p align="left">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=AvelinoTeixeira&show_icons=true&hide_title=true&rank_icon=github&theme=github_dark" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AvelinoTeixeira&layout=compact&theme=github_dark" />
+</p>
+
 
 ## 🛠️ Tech Stack
 
@@ -39,6 +50,8 @@ Proven track record of leading legacy migrations to React, architecting scalable
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
+
+
 
 ---
 
