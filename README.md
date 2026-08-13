@@ -1,5 +1,5 @@
 # Hi, I'm Avelino 👋
-### Senior Full Stack Engineer | Node.js | React | TypeScript | AWS
+### Senior Full Stack Engineer | B2B SaaS & Fintech | React, Node.js, TypeScript | Distributed Systems & AWS
 
 I am a Senior Software Engineer with **5+ years of experience** designing, building, and scaling robust web applications. Specialized in the JavaScript/TypeScript ecosystem, I focus on creating high-performance frontend interfaces and architecting resilient microservices, while expanding into cloud-native architectures with AWS.
 
